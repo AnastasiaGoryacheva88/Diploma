@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="filters_material_button" type="id" />
+    <item name="item_filter_open" type="id" />
+    <item name="item_filter_in_progress" type="id" />
+    <item name="item_filter_executed" type="id" />
+    <item name="item_filter_cancelled" type="id" />
+    <item name="claim_list_filter_ok_material_button" type="id" />
+    <item name="add_new_claim_material_button" type="id" />
+    <item name="title_text_input_layout" type="id" />
+    <item name="executor_drop_menu_auto_complete_text_view" type="id" />
+    <item name="date_in_plan_text_input_edit_text" type="id" />
+    <item name="time_in_plan_text_input_edit_text" type="id" />
+    <item name="description_edit_text" type="id" />
+    <item name="all_claims_text_view" type="id" />
+    <item name="all_claims_cards_block_constraint_layout" type="id" />
+    <item name="claim_list_recycler_view" type="id" />
+</resources>
